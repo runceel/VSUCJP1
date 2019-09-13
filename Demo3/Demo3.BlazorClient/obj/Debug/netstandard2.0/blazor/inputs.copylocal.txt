@@ -1,0 +1,39 @@
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.authorization\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.blazor\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.blazor.httpclient\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.components\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.components.forms\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.components.web\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.connections.abstractions\2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.http.connections.client\1.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.http.connections.common\1.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.http.features\2.2.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.metadata\3.0.0-preview9.19424.4\lib\netstandard2.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.signalr.client\1.1.0\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\k_ota\.nuget\packages\microsoft.aspnetcore.signalr.client.core\1.1.0\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.signalr.common\1.1.0\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.signalr.protocols.json\1.1.0\lib\netstandard2.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\k_ota\.nuget\packages\microsoft.bcl.asyncinterfaces\1.0.0-preview9.19421.4\lib\netstandard2.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\k_ota\.nuget\packages\microsoft.extensions.configuration\2.2.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll
+C:\Users\k_ota\.nuget\packages\microsoft.extensions.configuration.abstractions\2.2.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.configuration.binder\2.2.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\k_ota\.nuget\packages\microsoft.extensions.dependencyinjection\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\k_ota\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.extensions.logging\2.2.0\lib\netstandard2.0\Microsoft.Extensions.Logging.dll
+C:\Users\k_ota\.nuget\packages\microsoft.extensions.logging.abstractions\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\k_ota\.nuget\packages\microsoft.extensions.options\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.Options.dll
+C:\Users\k_ota\.nuget\packages\microsoft.extensions.primitives\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll
+C:\Users\k_ota\.nuget\packages\microsoft.jsinterop\3.0.0-preview9.19423.4\lib\netstandard2.0\Microsoft.JSInterop.dll
+C:\Users\k_ota\.nuget\packages\mono.webassembly.interop\3.0.0-preview9.19423.4\lib\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Users\k_ota\.nuget\packages\newtonsoft.json\11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.buffers\4.5.0\lib\netstandard2.0\System.Buffers.dll
+C:\Users\k_ota\.nuget\packages\system.componentmodel.annotations\4.6.0-preview9.19421.4\lib\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.io.pipelines\4.5.2\lib\netstandard2.0\System.IO.Pipelines.dll
+C:\Users\k_ota\.nuget\packages\system.memory\4.5.3\lib\netstandard2.0\System.Memory.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.numerics.vectors\4.5.0\lib\netstandard2.0\System.Numerics.Vectors.dll
+C:\Users\k_ota\.nuget\packages\system.runtime.compilerservices.unsafe\4.6.0-preview9.19421.4\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k_ota\.nuget\packages\system.text.encodings.web\4.6.0-preview9.19421.4\lib\netstandard2.0\System.Text.Encodings.Web.dll
+C:\Users\k_ota\.nuget\packages\system.text.json\4.6.0-preview9.19421.4\lib\netstandard2.0\System.Text.Json.dll
+C:\Program Files\dotnet\sdk\NuGetFallbackFolder\system.threading.channels\4.5.0\lib\netstandard2.0\System.Threading.Channels.dll
+C:\Users\k_ota\.nuget\packages\system.threading.tasks.extensions\4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Repos\runceel\VSUCJP1\Demo3\Demo3.ClientLib\bin\Debug\netstandard2.0\Demo3.ClientLib.dll

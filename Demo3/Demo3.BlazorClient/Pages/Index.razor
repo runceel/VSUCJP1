@@ -1,0 +1,19 @@
+﻿@page "/"
+@using Demo3.ClientLib;
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<div style="color: red; font-size: xx-large;">@AlertText</div>
+
+@code {
+    private AlertNotifier _alertNotifier;
+    private string AlertText { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        _alertNotifier = new AlertNotifier();
+        _alertNotifier.Alert += (_, args) => AlertText = $"{DateTime.Now}: {args.Data.Value}";
+        await _alertNotifier.InitializeAsync();
+    }
+}
